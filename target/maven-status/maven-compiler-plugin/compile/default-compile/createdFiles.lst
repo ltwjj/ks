@@ -1,0 +1,8 @@
+cn\doyens\domain\Province.class
+cn\doyens\utils\MessageConstant.class
+cn\doyens\domain\User.class
+cn\doyens\dao\userDao.class
+cn\doyens\utils\Result.class
+cn\doyens\service\impI\userServiceImp.class
+cn\doyens\controller\userController.class
+cn\doyens\service\userService.class
